@@ -40,6 +40,7 @@ To begin your journey with OpenCode, follow these simple steps:
 
 ## Table of Contents
 
+*   [Command Reference](docs/00-command-reference.md) - Quick lookup for all commands
 *   [Introduction to OpenCode](docs/01-introduction-to-opencode.md)
 *   [Getting Started](docs/02-getting-started.md)
 *   [Core Concepts](docs/03-core-concepts.md)
@@ -47,4 +48,7 @@ To begin your journey with OpenCode, follow these simple steps:
 *   [Claude to OpenCode Migration](docs/05-claude-to-opencode-migration.md)
 *   [Best Practices](docs/06-best-practices.md)
 *   [FAQ and Troubleshooting](docs/07-faq-and-troubleshooting.md)
-*   [Examples](examples/)
+*   [OpenCode Products: Zen, Go, Enterprise](docs/08-opencode-products.md)
+*   [Plugins Guide](docs/09-plugins-guide.md) - Extend OpenCode capabilities
+*   [MCP Servers Guide](docs/10-mcp-servers.md) - Connect to external services
+*   [AI Models Guide](docs/11-ai-models.md) - Choose the right model
